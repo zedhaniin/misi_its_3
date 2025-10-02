@@ -1,0 +1,12 @@
+C:\Users\zed\source\repos\ProjectKI\obj\Debug\ProjectKI.csproj.AssemblyReference.cache
+C:\Users\zed\source\repos\ProjectKI\obj\Debug\ProjectKI.Form1.resources
+C:\Users\zed\source\repos\ProjectKI\obj\Debug\ProjectKI.Properties.Resources.resources
+C:\Users\zed\source\repos\ProjectKI\obj\Debug\ProjectKI.csproj.GenerateResource.cache
+C:\Users\zed\source\repos\ProjectKI\obj\Debug\ProjectKI.csproj.CoreCompileInputs.cache
+C:\Users\zed\source\repos\ProjectKI\obj\Debug\ProjectKI.Form3.resources
+C:\Users\zed\source\repos\ProjectKI\obj\Debug\ProjectKI.FormProdukUtama.resources
+C:\Users\zed\source\repos\ProjectKI\bin\Debug\ProjectKI.exe.config
+C:\Users\zed\source\repos\ProjectKI\bin\Debug\ProjectKI.exe
+C:\Users\zed\source\repos\ProjectKI\bin\Debug\ProjectKI.pdb
+C:\Users\zed\source\repos\ProjectKI\obj\Debug\ProjectKI.exe
+C:\Users\zed\source\repos\ProjectKI\obj\Debug\ProjectKI.pdb
